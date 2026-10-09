@@ -1,0 +1,6 @@
+{
+  "name": "KampusHub - Physical Handshake Protocol & Campus Marketplace",
+  "description": "Platform marketplace mahasiswa KampusHub berbasis Direct Payment / COD aman dengan Physical Handshake Protocol, Campus Safe Zones, dan Reliability Scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
